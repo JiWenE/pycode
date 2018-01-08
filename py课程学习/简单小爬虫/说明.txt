@@ -1,0 +1,22 @@
+爬虫模块：urllib(python3将urllib2合并了)，re,bs4,requests,scrapy.lxml...
+
+1.urllib
+
+2.requests
+
+3.bs4
+
+4.re(正则)
+
+五种数据类型  list列表 中文在可迭代对象就是Unicode编码
+基本思路：
+1.urllib  静态 urlopen(打开网页)-----获取源码read
+import urllib.request
+urllib.request.urlopen
+
+2.requests get/post请求---获取源码 text content
+import requests
+a = requests.get()发送请求
+a.text/a.content
+
+3.bs4 高速方便

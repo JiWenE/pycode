@@ -1,0 +1,43 @@
+{'pm2_5_24h': 33, 'aqi': 54, 'pm2_5': 38, 'area': '北京', 'primary_pollutant': '细颗粒物(PM2.5)', 'quality': '良', 'position_name': '万寿西宫', 'station_code': '1001A', 'time_point': '2017-06-08T14:00:00Z'}
+{'pm2_5_24h': 12, 'aqi': 50, 'pm2_5': 8, 'area': '北京', 'primary_pollutant': None, 'quality': '优', 'position_name': '定陵', 'station_code': '1002A', 'time_point': '2017-06-08T14:00:00Z'}
+{'pm2_5_24h': 35, 'aqi': 56, 'pm2_5': 33, 'area': '北京', 'primary_pollutant': '颗粒物(PM10)', 'quality': '良', 'position_name': '东四', 'station_code': '1003A', 'time_point': '2017-06-08T14:00:00Z'}
+{'pm2_5_24h': 33, 'aqi': 30, 'pm2_5': 21, 'area': '北京', 'primary_pollutant': None, 'quality': '优', 'position_name': '天坛', 'station_code': '1004A', 'time_point': '2017-06-08T14:00:00Z'}
+{'pm2_5_24h': 34, 'aqi': 62, 'pm2_5': 32, 'area': '北京', 'primary_pollutant': '臭氧1小时', 'quality': '良', 'position_name': '农展馆', 'station_code': '1005A', 'time_point': '2017-06-08T14:00:00Z'}
+{'pm2_5_24h': 31, 'aqi': 41, 'pm2_5': 17, 'area': '北京', 'primary_pollutant': None, 'quality': '优', 'position_name': '官园', 'station_code': '1006A', 'time_point': '2017-06-08T14:00:00Z'}
+{'pm2_5_24h': 29, 'aqi': 58, 'pm2_5': 26, 'area': '北京', 'primary_pollutant': '颗粒物(PM10)', 'quality': '良', 'position_name': '海淀区万柳', 'station_code': '1007A', 'time_point': '2017-06-08T14:00:00Z'}
+{'pm2_5_24h': 21, 'aqi': 47, 'pm2_5': 28, 'area': '北京', 'primary_pollutant': None, 'quality': '优', 'position_name': '顺义新城', 'station_code': '1008A', 'time_point': '2017-06-08T14:00:00Z'}
+{'pm2_5_24h': 15, 'aqi': 42, 'pm2_5': 20, 'area': '北京', 'primary_pollutant': None, 'quality': '优', 'position_name': '怀柔镇', 'station_code': '1009A', 'time_point': '2017-06-08T14:00:00Z'}
+{'pm2_5_24h': 16, 'aqi': 52, 'pm2_5': 18, 'area': '北京', 'primary_pollutant': '颗粒物(PM10)', 'quality': '良', 'position_name': '昌平镇', 'station_code': '1010A', 'time_point': '2017-06-08T14:00:00Z'}
+{'pm2_5_24h': 29, 'aqi': 45, 'pm2_5': 25, 'area': '北京', 'primary_pollutant': None, 'quality': '优', 'position_name': '奥体中心', 'station_code': '1011A', 'time_point': '2017-06-08T14:00:00Z'}
+{'pm2_5_24h': 34, 'aqi': 49, 'pm2_5': 34, 'area': '北京', 'primary_pollutant': None, 'quality': '优', 'position_name': '古城', 'station_code': '1012A', 'time_point': '2017-06-08T14:00:00Z'}
+{'pm2_5_24h': 26, 'aqi': 51, 'pm2_5': 25, 'area': '北京', 'primary_pollutant': '颗粒物(PM10)', 'quality': '良', 'position_name': None, 'station_code': None, 'time_point': '2017-06-08T14:00:00Z'}
+
+
+{'pm2_5_24h': 96, 'aqi': 102, 'pm2_5': 53, 'area': '上海', 'primary_pollutant': '臭氧1小时', 'quality': '轻度污染', 'position_name': '十五厂', 'station_code': '1142A', 'time_point': '2017-06-08T14:00:00Z'}
+{'pm2_5_24h': 90, 'aqi': 114, 'pm2_5': 40, 'area': '上海', 'primary_pollutant': '臭氧1小时', 'quality': '轻度污染', 'position_name': '虹口', 'station_code': '1143A', 'time_point': '2017-06-08T14:00:00Z'}
+{'pm2_5_24h': 88, 'aqi': 0, 'pm2_5': 0, 'area': '上海', 'primary_pollutant': None, 'quality': None, 'position_name': '徐汇上师大', 'station_code': '1144A', 'time_point': '2017-06-08T14:00:00Z'}
+{'pm2_5_24h': 94, 'aqi': 112, 'pm2_5': 50, 'area': '上海', 'primary_pollutant': '臭氧1小时', 'quality': '轻度污染', 'position_name': '杨浦四漂', 'station_code': '1145A', 'time_point': '2017-06-08T14:00:00Z'}
+{'pm2_5_24h': 86, 'aqi': 134, 'pm2_5': 66, 'area': '上海', 'primary_pollutant': '臭氧1小时', 'quality': '轻度污染', 'position_name': '青浦淀山湖', 'station_code': '1146A', 'time_point': '2017-06-08T14:00:00Z'}
+{'pm2_5_24h': 91, 'aqi': 125, 'pm2_5': 65, 'area': '上海', 'primary_pollutant': '臭氧1小时', 'quality': '轻度污染', 'position_name': '静安监测站', 'station_code': '1147A', 'time_point': '2017-06-08T14:00:00Z'}
+{'pm2_5_24h': 79, 'aqi': 113, 'pm2_5': 36, 'area': '上海', 'primary_pollutant': '臭氧1小时', 'quality': '轻度污染', 'position_name': '浦东川沙', 'station_code': '1148A', 'time_point': '2017-06-08T14:00:00Z'}
+{'pm2_5_24h': 83, 'aqi': 117, 'pm2_5': 45, 'area': '上海', 'primary_pollutant': '臭氧1小时', 'quality': '轻度污染', 'position_name': '浦东新区监测站', 'station_code': '1149A', 'time_point': '2017-06-08T14:00:00Z'}
+{'pm2_5_24h': 83, 'aqi': 111, 'pm2_5': 37, 'area': '上海', 'primary_pollutant': '臭氧1小时', 'quality': '轻度污染', 'position_name': '浦东张江', 'station_code': '1150A', 'time_point': '2017-06-08T14:00:00Z'}
+{'pm2_5_24h': 90, 'aqi': 127, 'pm2_5': 56, 'area': '上海', 'primary_pollutant': '臭氧1小时', 'quality': '轻度污染', 'position_name': '普陀', 'station_code': '1141A', 'time_point': '2017-06-08T14:00:00Z'}
+{'pm2_5_24h': 88, 'aqi': 117, 'pm2_5': 49, 'area': '上海', 'primary_pollutant': '臭氧1小时', 'quality': '轻度污染', 'position_name': None, 'station_code': None, 'time_point': '2017-06-08T14:00:00Z'}
+
+
+{'pm2_5_24h': 18, 'aqi': 29, 'pm2_5': 19, 'area': '广州', 'primary_pollutant': None, 'quality': '优', 'position_name': '广雅中学', 'station_code': '1345A', 'time_point': '2017-06-08T14:00:00Z'}
+{'pm2_5_24h': 14, 'aqi': 25, 'pm2_5': 12, 'area': '广州', 'primary_pollutant': None, 'quality': '优', 'position_name': '市五中', 'station_code': '1346A', 'time_point': '2017-06-08T14:00:00Z'}
+{'pm2_5_24h': 0, 'aqi': 0, 'pm2_5': 0, 'area': '广州', 'primary_pollutant': None, 'quality': None, 'position_name': '天河职幼', 'station_code': '1347A', 'time_point': '2015-06-01T14:00:00Z'}
+{'pm2_5_24h': 16, 'aqi': 22, 'pm2_5': 15, 'area': '广州', 'primary_pollutant': None, 'quality': '优', 'position_name': '广东商学院', 'station_code': '1348A', 'time_point': '2017-06-08T14:00:00Z'}
+{'pm2_5_24h': 19, 'aqi': 28, 'pm2_5': 15, 'area': '广州', 'primary_pollutant': None, 'quality': '优', 'position_name': '市八十六中', 'station_code': '1349A', 'time_point': '2017-06-08T14:00:00Z'}
+{'pm2_5_24h': 15, 'aqi': 25, 'pm2_5': 11, 'area': '广州', 'primary_pollutant': None, 'quality': '优', 'position_name': '番禺中学', 'station_code': '1350A', 'time_point': '2017-06-08T14:00:00Z'}
+{'pm2_5_24h': 22, 'aqi': 43, 'pm2_5': 24, 'area': '广州', 'primary_pollutant': None, 'quality': '优', 'position_name': '花都师范', 'station_code': '1351A', 'time_point': '2017-06-08T14:00:00Z'}
+{'pm2_5_24h': 17, 'aqi': 37, 'pm2_5': 12, 'area': '广州', 'primary_pollutant': None, 'quality': '优', 'position_name': '市监测站', 'station_code': '1352A', 'time_point': '2017-06-08T14:00:00Z'}
+{'pm2_5_24h': 26, 'aqi': 90, 'pm2_5': 32, 'area': '广州', 'primary_pollutant': '臭氧1小时', 'quality': '良', 'position_name': '九龙镇镇龙', 'station_code': '1353A', 'time_point': '2017-06-08T14:00:00Z'}
+{'pm2_5_24h': 17, 'aqi': 32, 'pm2_5': 18, 'area': '广州', 'primary_pollutant': None, 'quality': '优', 'position_name': '麓湖', 'station_code': '1354A', 'time_point': '2017-06-08T14:00:00Z'}
+{'pm2_5_24h': 22, 'aqi': 78, 'pm2_5': 26, 'area': '广州', 'primary_pollutant': '臭氧1小时', 'quality': '良', 'position_name': '帽峰山森林公园', 'station_code': '1355A', 'time_point': '2017-06-08T14:00:00Z'}
+{'pm2_5_24h': 18, 'aqi': 24, 'pm2_5': 12, 'area': '广州', 'primary_pollutant': None, 'quality': '优', 'position_name': '体育西', 'station_code': '2846A', 'time_point': '2017-06-08T14:00:00Z'}
+{'pm2_5_24h': 18, 'aqi': 36, 'pm2_5': 17, 'area': '广州', 'primary_pollutant': '', 'quality': '优', 'position_name': None, 'station_code': None, 'time_point': '2017-06-08T14:00:00Z'}
+
+

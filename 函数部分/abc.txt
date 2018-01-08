@@ -1,0 +1,15 @@
+
+
+思路方法+爬虫模块
+
+模块：requests,threading,lxml,bs4
+
+1. 获取主页源码 https://www.doutula.com/article/list
+网站禁止爬虫：模拟浏览器，加上headers
+发送get请求获取源码
+
+
+2. 获取页内图片url源码
+
+3. 多线程下载图片
+

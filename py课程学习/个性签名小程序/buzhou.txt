@@ -1,0 +1,10 @@
+
+
+1.GUI图形用户界面---Tkinter
+    1.Label 文本框
+    2.Entry 输入框     text多行输入
+    3.Button 按钮
+
+布局方法：pack(包装，简单布局)   grid（网格，复杂布局）    place(位置)
+
+2.模拟网页发送请求
